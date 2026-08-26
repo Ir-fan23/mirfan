@@ -56,3 +56,24 @@ footer {
     text-align: center;
     padding: 25px;
 }
+header img {
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 3rem;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #ceb888;
+}
