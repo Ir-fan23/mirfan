@@ -111,6 +111,21 @@ h2 {
 .card p {
     line-height: 1.7;
 }
+.card ul {
+    padding-left: 25px;
+}
+.card li {
+    margin-bottom: 18px;
+    line-height: 1.7;
+}
+.card em {
+    color: #782f40;
+    font-style: italic;
+}
+.card strong {
+    color: #111827;
+}
+
 .gallery img:hover {
     transform: scale(1.03);
 }
