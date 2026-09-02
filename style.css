@@ -100,6 +100,17 @@ h2 {
     border-radius: 12px;
     transition: transform 0.3s ease;
 }
+.card em {
+    color: #782f40;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.card strong {
+    color: #111827;
+}
+.card p {
+    line-height: 1.7;
+}
 .gallery img:hover {
     transform: scale(1.03);
 }
