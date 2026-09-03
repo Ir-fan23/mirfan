@@ -196,3 +196,16 @@ button {
 button:hover {
     background: #5f2330;
 }
+.contact-form-card {
+    text-align: center;
+}
+.contact-form {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
+.contact-form button {
+    display: block;
+    margin: 20px auto 0 auto;
+    min-width: 180px;
+}
