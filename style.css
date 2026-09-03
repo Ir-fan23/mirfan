@@ -151,6 +151,20 @@ h2 {
     font-size: 0.95rem;
     color: #555;
 }
+.card a {
+    color: #782f40;
+    text-decoration: none;
+    font-weight: 500;
+}
+.card a:hover {
+    text-decoration: underline;
+}
+.card p {
+    line-height: 1.8;
+}
+.card h2 {
+    color: #782f40;
+}
 .gallery img:hover {
     transform: scale(1.03);
 }
